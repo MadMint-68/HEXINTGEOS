@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_degrader.png" alt="Logo du projet">
+  <img src="img/png/logo_degrader.png" alt="Logo du projet">
 </p>
 
 ## HEXINTGEOS ? Kézako ?
