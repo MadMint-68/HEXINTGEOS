@@ -2,6 +2,9 @@
   <img src="img/png/logo_degrader.png" alt="Logo du projet">
 </p>
 
+## Table des matières
+[HEXINTGEOS ? Kézako ?](#HEXINTGEOS_?_Kézako_?)  
+
 ## HEXINTGEOS ? Kézako ?
 
 * **HEX** : Représente l'**Hexagone**, le surnom de la France. Cela indique clairement que le projet est purement en français.
@@ -14,7 +17,7 @@
 
 ---
 
-### Interprétation Générale
+## Interprétation Générale
 
 En combinant ces éléments, **HEXINTGEOS** se positionne comme un projet **Open Source** dédié à l'**Intelligence** ou l'**Information Géospatiale** spécifiquement pour l'**Hexagone (la France)**.
 
