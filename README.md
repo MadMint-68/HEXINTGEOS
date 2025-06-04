@@ -3,7 +3,7 @@
 </p>
 
 ## Table des matières
-[HEXINTGEOS ? Kézako ?](#HEXINTGEOS_?_Kézako_?)  
+[HEXINTGEOS ? Kézako ?](#hexintgeos--kézako-)  
 
 ## HEXINTGEOS ? Kézako ?
 
