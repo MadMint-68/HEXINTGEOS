@@ -4,6 +4,8 @@
 
 ## Table des matières
 [HEXINTGEOS ? Kézako ?](#hexintgeos--kézako-)  
+[Interprétation Générale](#interprétation-générale)  
+[Avancement des travaux.](#avancement-des-travaux)
 
 ## HEXINTGEOS ? Kézako ?
 
@@ -17,7 +19,7 @@
 
 ---
 
-## Interprétation Générale
+### Interprétation Générale
 
 En combinant ces éléments, **HEXINTGEOS** se positionne comme un projet **Open Source** dédié à l'**Intelligence** ou l'**Information Géospatiale** spécifiquement pour l'**Hexagone (la France)**.
 
